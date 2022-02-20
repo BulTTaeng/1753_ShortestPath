@@ -6,7 +6,7 @@ made by Jaehyeok Choi
 
 ## What is the problem?
 
-![image](https://github.com/Choi-JaeHyeok-21500749/1753_ShortestPath/blob/main/_pro.PNG)
+![image](https://github.com/Choi-JaeHyeok-21500749/1753_ShortestPath/blob/main/1753_pro.PNG)
 
 ## What Algorithm should I use?
 
